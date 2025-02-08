@@ -9,7 +9,6 @@
 	int main(){
 		return 0 ;
 	}
-	
 	// Traitement du cas ou aucun macro n'est definie (selectionne) .
 #endif
 #endif
@@ -21,7 +20,7 @@
 int main() {
 	// Exercice 1 : Affichage d'un message
 	#ifdef EXO_1
-    std::cout << "Hello, World!\nBienvenue en C++!\n";
+   	    std::cout << "Hello, World!\nBienvenue en C++!\n";
 	#endif
 	
 	
