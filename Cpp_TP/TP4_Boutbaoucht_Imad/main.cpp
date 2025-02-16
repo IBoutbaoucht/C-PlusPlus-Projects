@@ -273,7 +273,7 @@ void exercice11() {
 
 // Main
 int main(int argc, char* argv[]){
-	#ifdef EXO
+     #ifdef EXO
         #if EXO == 1
             exercice1();
         #elif EXO == 2
@@ -282,20 +282,20 @@ int main(int argc, char* argv[]){
             exercice3();
         #elif EXO == 4
             exercice4(argc,argv);
-		#elif EXO == 5
-            exercice5();
-		#elif EXO == 6
-			exercice6();
-		#elif EXO == 7
-			exercice7();
-		#elif EXO == 8
-			exercice8();
-		#elif EXO == 9
-			exercice9();
-		#elif EXO == 10
-			exercice10();
-		#elif EXO == 11
-			exercice11();
+	#elif EXO == 5
+	    exercice5();
+	#elif EXO == 6
+		exercice6();
+	#elif EXO == 7
+		exercice7();
+	#elif EXO == 8
+		exercice8();
+	#elif EXO == 9
+		exercice9();
+	#elif EXO == 10
+		exercice10();
+	#elif EXO == 11
+		exercice11();
         #else
             std::cout << "Numéro d'exercice invalide." << std::endl;
         #endif
