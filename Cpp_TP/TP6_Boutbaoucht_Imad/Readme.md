@@ -78,19 +78,16 @@ Accès aux clés : 1 2 3 1 4 Cache actuel : 4 1 3 2 Accès à la clé 5 -> Evict
    Navigate to your project directory where the `Makefile` is located and run:
    ```bash
    make
-   ```bash
 
    
-	* Run a specific exercise: After compiling, you can execute a specific exercise. For example, to run exercise 1: *
+* Run a specific exercise: After compiling, you can execute a specific exercise. For example, to run exercise 1: *
 
 	```bash
 	./exo1
-	```bash
 
 
-	* Clean up the compiled files: To remove all compiled files and clean the project, use: *
+* Clean up the compiled files: To remove all compiled files and clean the project, use: *
 
 	```bash
 	make clean
-	```bash
 
