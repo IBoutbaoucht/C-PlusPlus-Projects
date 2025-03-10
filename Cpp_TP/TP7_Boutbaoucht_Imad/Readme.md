@@ -1,5 +1,4 @@
-# Programmation Orientée Objet en C++ avec
-Pointeurs
+# Programmation Orientée Objet en C++ avec Pointeurs
 
 ## Description
 Ce projet contient plusieurs exercices en C++ portant sur la gestion de pointeurs, 
