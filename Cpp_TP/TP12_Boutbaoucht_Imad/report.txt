@@ -1,0 +1,4 @@
+Nom                 Age       Salaire        
+Alice               30        50000.50       
+Bob                 25        45000.75       
+Charlie             35        55000.00       
